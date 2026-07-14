@@ -1,2 +1,2 @@
-# time series project
+# time series project by khushi
 laptop price prediction .
